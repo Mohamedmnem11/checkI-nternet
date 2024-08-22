@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui;
+}
+.container{
+    width: 400px;
+    margin: 300px auto;
+}
+
+.head{
+    font-size: 30px;
+}
+ul{
+    position: relative;
+    left: 30px;
+}
+#btn{
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    outline: none;
+    background-color: #666;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.hide{
+    display: none;
+}
